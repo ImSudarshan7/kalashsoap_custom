@@ -30,7 +30,7 @@ class SaleOrder(models.Model):
     ], string='Sales Location', copy=True, required=True
     )
 
-    # outstanding_check= fields.Integer(string='O/C')
+    outstanding_check= fields.Integer(string='O/C')
 
 
 
