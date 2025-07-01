@@ -8,9 +8,9 @@
             <xpath expr="//field[@name='partner_id']" position="before">
                 <field name="sales_location"></field>
             </xpath>
-            <xpath expr="//field[@name='partner_id']" position="after">
-                <field name="outstanding_check"></field>
-            </xpath>
+<!--            <xpath expr="//field[@name='partner_id']" position="after">-->
+<!--                <field name="outstanding_check"></field>-->
+<!--            </xpath>-->
 
         </field>
     </record>
